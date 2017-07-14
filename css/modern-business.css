@@ -90,3 +90,6 @@ footer {
     max-height: 2000px;
 }
 
+.panel > .panel-heading {
+    background-color: #e8e8e8;
+}
