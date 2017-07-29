@@ -23,30 +23,6 @@ body {
     opacity: 0.8;
 }
 
-/* 404 Page Styles */
-
-.error-404 {
-    font-size: 100px;
-}
-
-/* Pricing Page Styles */
-
-.price {
-    display: block;
-    font-size: 50px;
-    line-height: 50px;
-}
-
-.price sup {
-    top: -20px;
-    left: 2px;
-    font-size: 20px;
-}
-
-.period {
-    display: block;
-    font-style: italic;
-}
 
 /* Footer Styles */
 
@@ -71,25 +47,51 @@ footer {
         margin-bottom: 15px;
     }
 
-    header.carousel .carousel {
-        height: 70%;
-    }
 }
 
 /*!
  * Other CSS
  */
 
-.jumbotron img{
-    display:block;
-    margin-left:auto;
-    margin-right:auto;
-    height: auto;
-    width: auto;
-    max-width: 2000px;
-    max-height: 2000px;
+.jumbotron {
+    background-image: src="Images/Motivation.png";
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom:1px solid #ff6a00
 }
-
+.jumbotron .container {
+    position:relative;
+    top:50px;
+}
 .panel > .panel-heading {
     background-color: #e8e8e8;
+}
+
+.panel-title a{
+    color: white !important;
+}
+
+.together{
+    background-color: #007CC4 !important;
+}
+
+.teachers{
+    background-color: #00866C !important;
+}
+
+.school{
+    background-color: #a3484d !important;
+}
+
+.parents{
+    background-color: #1e8530 !important;
+}
+
+.community{
+    background-color: #a5531e !important;
+}
+
+.regacc{
+    background-color: #337BB6 !important;
 }

@@ -2,9 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d7080bc-a0e0-47d6-97b6-feff148c1b47" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/contact_me.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/contact_me.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/jqBootstrapValidation.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MH_Supporting.html" afterPath="$PROJECT_DIR$/MH_Supporting.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help.html" afterPath="$PROJECT_DIR$/For_Help.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_HealthUnit.html" afterPath="$PROJECT_DIR$/For_Help_HealthUnit.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Homelessness.html" afterPath="$PROJECT_DIR$/For_Help_Homelessness.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Impact.html" afterPath="$PROJECT_DIR$/For_Help_Impact.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_LearningDis.html" afterPath="$PROJECT_DIR$/For_Help_LearningDis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_MentalHealth.html" afterPath="$PROJECT_DIR$/For_Help_MentalHealth.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Mentouring.html" afterPath="$PROJECT_DIR$/For_Help_Mentouring.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Poverty.html" afterPath="$PROJECT_DIR$/For_Help_Poverty.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Protection.html" afterPath="$PROJECT_DIR$/For_Help_Protection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Recreational.html" afterPath="$PROJECT_DIR$/For_Help_Recreational.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SchoolBoards.html" afterPath="$PROJECT_DIR$/For_Help_SchoolBoards.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_Alc.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_Alc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_Autism.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_Autism.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_Developmental.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_Developmental.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_General.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_General.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_YouthJustice.html" afterPath="$PROJECT_DIR$/For_Help_YouthJustice.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MH_Att_Insecure.html" afterPath="$PROJECT_DIR$/MH_Att_Insecure.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modern-business.css" afterPath="$PROJECT_DIR$/css/modern-business.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,101 +44,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MH_Supporting.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MH_Supporting.html">
+      <file leaf-file-name="Impact_Dealing.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_Dealing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="530" column="26" lean-forward="false" selection-start-line="530" selection-start-column="26" selection-end-line="530" selection-end-column="26" />
+            <state relative-caret-position="210">
+              <caret line="344" column="98" lean-forward="false" selection-start-line="344" selection-start-column="98" selection-end-line="344" selection-end-column="98" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MH_Anxiety_general.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MH_Anxiety_general.html">
+      <file leaf-file-name="Impact_DV.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_DV.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="320" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="323" column="22" lean-forward="true" selection-start-line="323" selection-start-column="22" selection-end-line="323" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MH_Anxiety_ocd.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MH_Anxiety_ocd.html">
+      <file leaf-file-name="Impact_Exposure.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_Exposure.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="271" column="0" lean-forward="true" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+            <state relative-caret-position="390">
+              <caret line="252" column="41" lean-forward="true" selection-start-line="252" selection-start-column="29" selection-end-line="252" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MH_Att_Insecure.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MH_Att_Insecure.html">
+      <file leaf-file-name="Impact_Grief.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_Grief.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="274" column="22" lean-forward="true" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+            <state relative-caret-position="330">
+              <caret line="262" column="43" lean-forward="true" selection-start-line="262" selection-start-column="43" selection-end-line="262" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MH_Anxiety_SM.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MH_Anxiety_SM.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="286" column="24" lean-forward="true" selection-start-line="286" selection-start-column="24" selection-end-line="286" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="modern-business.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/modern-business.css">
+      <file leaf-file-name="Impact_Subst.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_Subst.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="495">
-              <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+              <caret line="254" column="44" lean-forward="false" selection-start-line="254" selection-start-column="29" selection-end-line="254" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Bibliography.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bibliography.html">
+      <file leaf-file-name="Impact_ParSubst.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_ParSubst.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+            <state relative-caret-position="345">
+              <caret line="256" column="44" lean-forward="true" selection-start-line="256" selection-start-column="44" selection-end-line="256" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <file leaf-file-name="Impact_Teens.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_Teens.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+            <state relative-caret-position="660">
+              <caret line="256" column="42" lean-forward="false" selection-start-line="256" selection-start-column="29" selection-end-line="256" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Resilience.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resilience.html">
+      <file leaf-file-name="Impact_Stress.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Impact_Stress.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="312" column="94" lean-forward="true" selection-start-line="312" selection-start-column="8" selection-end-line="312" selection-end-column="94" />
+            <state relative-caret-position="180">
+              <caret line="317" column="0" lean-forward="false" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="SE.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SE.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7305">
-              <caret line="487" column="36" lean-forward="true" selection-start-line="399" selection-start-column="12" selection-end-line="487" selection-end-column="36" />
+            <state relative-caret-position="120">
+              <caret line="230" column="41" lean-forward="true" selection-start-line="230" selection-start-column="41" selection-end-line="230" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MH_Suicide.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MH_Suicide.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="324" column="29" lean-forward="true" selection-start-line="324" selection-start-column="29" selection-end-line="324" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -140,6 +162,8 @@
       <find>goals</find>
       <find>button</find>
       <find>head</find>
+      <find>Motiva</find>
+      <find>media</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,54 +172,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/main.html" />
-        <option value="$PROJECT_DIR$/sidebar.html" />
-        <option value="$PROJECT_DIR$/faq.html" />
-        <option value="$PROJECT_DIR$/full-width.html" />
-        <option value="$PROJECT_DIR$/css/bootstrap.css" />
-        <option value="$PROJECT_DIR$/Resiliense.html" />
-        <option value="$PROJECT_DIR$/What_Is_StudentSuccess.html" />
-        <option value="$PROJECT_DIR$/Student_Success_grade1to6.html" />
-        <option value="$PROJECT_DIR$/Student_Success_Main.html" />
-        <option value="$PROJECT_DIR$/Student_Success_Risks.html" />
-        <option value="$PROJECT_DIR$/Bibliography.html" />
-        <option value="$PROJECT_DIR$/Resilience.html" />
-        <option value="$PROJECT_DIR$/Developmental_Assets.html" />
-        <option value="$PROJECT_DIR$/Role_of_Recreation.html" />
-        <option value="$PROJECT_DIR$/Importance_of_Friendship.html" />
-        <option value="$PROJECT_DIR$/Healthy_b&amp;m.html" />
-        <option value="$PROJECT_DIR$/Encourage.html" />
-        <option value="$PROJECT_DIR$/Student_Success.html" />
-        <option value="$PROJECT_DIR$/Student_Success_Attendance.html" />
-        <option value="$PROJECT_DIR$/Student_Success_Family.html" />
         <option value="$PROJECT_DIR$/Student_Success_Responding.html" />
         <option value="$PROJECT_DIR$/Student_Success_Roles.html" />
         <option value="$PROJECT_DIR$/Student_Success_Social.html" />
         <option value="$PROJECT_DIR$/Student_Success_ToDo.html" />
-        <option value="$PROJECT_DIR$/For_Help_Recreational.html" />
-        <option value="$PROJECT_DIR$/For_Help.html" />
-        <option value="$PROJECT_DIR$/For_Help_Protection.html" />
-        <option value="$PROJECT_DIR$/For_Help_HealthUnit.html" />
         <option value="$PROJECT_DIR$/Student_Success_Academic.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/For_Help_Mentouring.html" />
-        <option value="$PROJECT_DIR$/For_Help_MentalHealth.html" />
-        <option value="$PROJECT_DIR$/For_Help_Impact.html" />
-        <option value="$PROJECT_DIR$/For_Help_SpecEd_General.html" />
-        <option value="$PROJECT_DIR$/For_Help_SpecEd_Autism.html" />
-        <option value="$PROJECT_DIR$/For_Help_SpecEd_Developmental.html" />
-        <option value="$PROJECT_DIR$/For_Help_SpecEd_Alc.html" />
-        <option value="$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html" />
-        <option value="$PROJECT_DIR$/For_Help_SchoolBoards.html" />
-        <option value="$PROJECT_DIR$/For_Help_Poverty.html" />
-        <option value="$PROJECT_DIR$/For_Help_Homelessness.html" />
-        <option value="$PROJECT_DIR$/For_Help_YouthJustice.html" />
         <option value="$PROJECT_DIR$/MH_Supporting.html" />
         <option value="$PROJECT_DIR$/MH_Anxiety_general.html" />
-        <option value="$PROJECT_DIR$/css/modern-business.css" />
         <option value="$PROJECT_DIR$/MH_Anxiety_SM.html" />
         <option value="$PROJECT_DIR$/MH_Anxiety_ocd.html" />
+        <option value="$PROJECT_DIR$/MH_Att_Insecure.html" />
+        <option value="$PROJECT_DIR$/MH_Attention.html" />
+        <option value="$PROJECT_DIR$/MH_Disruptive_Beh.html" />
+        <option value="$PROJECT_DIR$/MH_Eating.html" />
+        <option value="$PROJECT_DIR$/MH_Mood_Bipolar.html" />
+        <option value="$PROJECT_DIR$/MH_Mood_Dep.html" />
+        <option value="$PROJECT_DIR$/MH_Psy.html" />
+        <option value="$PROJECT_DIR$/MH_Self_Injury.html" />
+        <option value="$PROJECT_DIR$/MH_Suicide.html" />
+        <option value="$PROJECT_DIR$/MH_Tourettes.html" />
+        <option value="$PROJECT_DIR$/MH_Trauma.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/For_Help.html" />
+        <option value="$PROJECT_DIR$/For_Help_HealthUnit.html" />
+        <option value="$PROJECT_DIR$/For_Help_Homelessness.html" />
+        <option value="$PROJECT_DIR$/For_Help_Impact.html" />
+        <option value="$PROJECT_DIR$/For_Help_LearningDis.html" />
+        <option value="$PROJECT_DIR$/For_Help_MentalHealth.html" />
+        <option value="$PROJECT_DIR$/For_Help_Mentouring.html" />
+        <option value="$PROJECT_DIR$/For_Help_Poverty.html" />
+        <option value="$PROJECT_DIR$/For_Help_Protection.html" />
+        <option value="$PROJECT_DIR$/For_Help_Recreational.html" />
+        <option value="$PROJECT_DIR$/For_Help_SchoolBoards.html" />
+        <option value="$PROJECT_DIR$/For_Help_SpecEd_Alc.html" />
+        <option value="$PROJECT_DIR$/For_Help_SpecEd_Autism.html" />
+        <option value="$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html" />
+        <option value="$PROJECT_DIR$/For_Help_SpecEd_Developmental.html" />
+        <option value="$PROJECT_DIR$/For_Help_SpecEd_General.html" />
+        <option value="$PROJECT_DIR$/For_Help_YouthJustice.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Impact_Abuse.html" />
+        <option value="$PROJECT_DIR$/css/modern-business.css" />
+        <option value="$PROJECT_DIR$/Impact_Bullying.html" />
+        <option value="$PROJECT_DIR$/Impact_DV.html" />
+        <option value="$PROJECT_DIR$/Impact_Dealing.html" />
+        <option value="$PROJECT_DIR$/Impact_Exposure.html" />
+        <option value="$PROJECT_DIR$/Impact_Grief.html" />
+        <option value="$PROJECT_DIR$/Impact_Subst.html" />
+        <option value="$PROJECT_DIR$/Impact_ParSubst.html" />
+        <option value="$PROJECT_DIR$/Impact_Teens.html" />
+        <option value="$PROJECT_DIR$/Impact_Stress.html" />
+        <option value="$PROJECT_DIR$/SE.html" />
       </list>
     </option>
   </component>
@@ -206,9 +233,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="61" />
-    <option name="y" value="94" />
-    <option name="width" value="1197" />
+    <option name="x" value="284" />
+    <option name="y" value="23" />
+    <option name="width" value="1126" />
     <option name="height" value="827" />
   </component>
   <component name="ProjectView">
@@ -248,7 +275,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="font-awesome" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -268,8 +295,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -386,17 +413,26 @@
       <workItem from="1500663348267" duration="3027000" />
       <workItem from="1500854886376" duration="2421000" />
       <workItem from="1500934326630" duration="6162000" />
+      <workItem from="1501013913206" duration="3416000" />
+      <workItem from="1501105989524" duration="826000" />
+      <workItem from="1501172029077" duration="2109000" />
+      <workItem from="1501186789247" duration="645000" />
+      <workItem from="1501194230077" duration="2565000" />
+      <workItem from="1501202515406" duration="1851000" />
+      <workItem from="1501257260233" duration="4227000" />
+      <workItem from="1501265467466" duration="1163000" />
+      <workItem from="1501338919541" duration="11956000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91298000" />
+    <option name="totallyTimeSpent" value="120056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="61" y="94" width="1197" height="827" extended-state="0" />
+    <frame x="284" y="23" width="1126" height="827" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21136174" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.02110818" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -425,311 +461,375 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sidebar.html" />
-    <entry file="file://$PROJECT_DIR$/404.html" />
-    <entry file="file://$PROJECT_DIR$/faq.html" />
-    <entry file="file://$PROJECT_DIR$/full-width.html" />
-    <entry file="file://$PROJECT_DIR$/Resiliense.html" />
-    <entry file="file://$PROJECT_DIR$/Student_Success_Main.html" />
-    <entry file="file://$PROJECT_DIR$/What_Is_StudentSuccess.html" />
-    <entry file="file://$PROJECT_DIR$/Student_Success_grade1to6.html" />
-    <entry file="file://$PROJECT_DIR$/Student_Success_Risks.html" />
-    <entry file="file://$PROJECT_DIR$/Student Success Tab/Student_Success.html" />
-    <entry file="file://$PROJECT_DIR$/portfolio-item.html" />
-    <entry file="file://$PROJECT_DIR$/Developmental_Assets.html">
+    <entry file="file://$PROJECT_DIR$/MH_Anxiety_SM.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="248" column="31" lean-forward="false" selection-start-line="248" selection-start-column="31" selection-end-line="248" selection-end-column="31" />
+        <state relative-caret-position="4290">
+          <caret line="286" column="24" lean-forward="false" selection-start-line="286" selection-start-column="24" selection-end-line="286" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Role_of_Recreation.html">
+    <entry file="file://$PROJECT_DIR$/MH_Anxiety_ocd.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="257" column="18" lean-forward="true" selection-start-line="243" selection-start-column="8" selection-end-line="257" selection-end-column="18" />
+        <state relative-caret-position="4065">
+          <caret line="271" column="0" lean-forward="false" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Importance_of_Friendship.html">
+    <entry file="file://$PROJECT_DIR$/MH_Att_Insecure.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="256" column="18" lean-forward="true" selection-start-line="242" selection-start-column="8" selection-end-line="256" selection-end-column="18" />
+        <state relative-caret-position="4545">
+          <caret line="303" column="87" lean-forward="false" selection-start-line="303" selection-start-column="87" selection-end-line="303" selection-end-column="87" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Healthy_b&amp;m.html">
+    <entry file="file://$PROJECT_DIR$/MH_Attention.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="255" column="18" lean-forward="true" selection-start-line="255" selection-start-column="18" selection-end-line="255" selection-end-column="18" />
+        <state relative-caret-position="4005">
+          <caret line="267" column="45" lean-forward="false" selection-start-line="267" selection-start-column="45" selection-end-line="267" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Encourage.html">
+    <entry file="file://$PROJECT_DIR$/MH_Mood_Dep.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="271" column="0" lean-forward="true" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
+        <state relative-caret-position="3645">
+          <caret line="243" column="25" lean-forward="true" selection-start-line="243" selection-start-column="25" selection-end-line="243" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success.html">
+    <entry file="file://$PROJECT_DIR$/MH_Psy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="237" column="20" lean-forward="true" selection-start-line="237" selection-start-column="20" selection-end-line="237" selection-end-column="79" />
+        <state relative-caret-position="4440">
+          <caret line="296" column="34" lean-forward="false" selection-start-line="296" selection-start-column="34" selection-end-line="296" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_Attendance.html">
+    <entry file="file://$PROJECT_DIR$/MH_Disruptive_Beh.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="235" column="30" lean-forward="true" selection-start-line="235" selection-start-column="30" selection-end-line="235" selection-end-column="30" />
+        <state relative-caret-position="3225">
+          <caret line="215" column="29" lean-forward="false" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_Family.html">
+    <entry file="file://$PROJECT_DIR$/MH_Eating.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="237" column="79" lean-forward="false" selection-start-line="237" selection-start-column="79" selection-end-line="237" selection-end-column="79" />
+        <state relative-caret-position="3885">
+          <caret line="259" column="68" lean-forward="false" selection-start-line="259" selection-start-column="68" selection-end-line="259" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_Responding.html">
+    <entry file="file://$PROJECT_DIR$/MH_Tourettes.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="237" column="79" lean-forward="false" selection-start-line="237" selection-start-column="79" selection-end-line="237" selection-end-column="79" />
+        <state relative-caret-position="3915">
+          <caret line="261" column="47" lean-forward="false" selection-start-line="261" selection-start-column="47" selection-end-line="261" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_Roles.html">
+    <entry file="file://$PROJECT_DIR$/MH_Trauma.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="237" column="79" lean-forward="false" selection-start-line="237" selection-start-column="79" selection-end-line="237" selection-end-column="79" />
+        <state relative-caret-position="6675">
+          <caret line="445" column="17" lean-forward="false" selection-start-line="445" selection-start-column="17" selection-end-line="445" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_Social.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="237" column="79" lean-forward="false" selection-start-line="237" selection-start-column="79" selection-end-line="237" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_ToDo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="244" column="28" lean-forward="true" selection-start-line="244" selection-start-column="28" selection-end-line="244" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Glossary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3750">
-          <caret line="250" column="59" lean-forward="false" selection-start-line="250" selection-start-column="59" selection-end-line="250" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_Protection.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3810">
-          <caret line="254" column="66" lean-forward="true" selection-start-line="254" selection-start-column="66" selection-end-line="254" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_Recreational.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3600">
-          <caret line="240" column="17" lean-forward="true" selection-start-line="240" selection-start-column="17" selection-end-line="240" selection-end-column="17" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/Images/Bibliography.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/For_Help_HealthUnit.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="71" lean-forward="false" selection-start-line="36" selection-start-column="71" selection-end-line="36" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Student_Success_Academic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4770">
-          <caret line="318" column="22" lean-forward="false" selection-start-line="318" selection-start-column="22" selection-end-line="318" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_Mentouring.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4860">
-          <caret line="324" column="28" lean-forward="true" selection-start-line="324" selection-start-column="28" selection-end-line="324" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_MentalHealth.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7260">
-          <caret line="484" column="0" lean-forward="true" selection-start-line="484" selection-start-column="0" selection-end-line="484" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_Impact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1305">
-          <caret line="87" column="29" lean-forward="false" selection-start-line="87" selection-start-column="29" selection-end-line="87" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_General.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7200">
-          <caret line="480" column="28" lean-forward="false" selection-start-line="480" selection-start-column="28" selection-end-line="480" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Autism.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7020">
-          <caret line="468" column="22" lean-forward="false" selection-start-line="468" selection-start-column="22" selection-end-line="468" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Developmental.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3750">
-          <caret line="250" column="58" lean-forward="false" selection-start-line="250" selection-start-column="58" selection-end-line="250" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Alc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3990">
-          <caret line="266" column="60" lean-forward="false" selection-start-line="266" selection-start-column="60" selection-end-line="266" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3900">
-          <caret line="260" column="51" lean-forward="false" selection-start-line="260" selection-start-column="51" selection-end-line="260" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SchoolBoards.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4110">
-          <caret line="274" column="33" lean-forward="false" selection-start-line="274" selection-start-column="33" selection-end-line="274" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_Poverty.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3990">
-          <caret line="266" column="25" lean-forward="true" selection-start-line="266" selection-start-column="25" selection-end-line="266" selection-end-column="46" />
-          <folding />
+        <state relative-caret-position="465">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/For_Help_Homelessness.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4050">
-          <caret line="270" column="18" lean-forward="true" selection-start-line="270" selection-start-column="18" selection-end-line="270" selection-end-column="18" />
-          <folding />
+        <state relative-caret-position="339">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_YouthJustice.html">
+    <entry file="file://$PROJECT_DIR$/For_Help_Impact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6270">
-          <caret line="418" column="48" lean-forward="true" selection-start-line="418" selection-start-column="48" selection-end-line="418" selection-end-column="48" />
-          <folding />
+        <state relative-caret-position="264">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/For_Help_LearningDis.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7305">
-          <caret line="487" column="36" lean-forward="true" selection-start-line="399" selection-start-column="12" selection-end-line="487" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="345">
+          <caret line="249" column="84" lean-forward="false" selection-start-line="249" selection-start-column="84" selection-end-line="249" selection-end-column="84" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resilience.html">
+    <entry file="file://$PROJECT_DIR$/For_Help_MentalHealth.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="312" column="94" lean-forward="true" selection-start-line="312" selection-start-column="8" selection-end-line="312" selection-end-column="94" />
+        <state relative-caret-position="435">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_Mentouring.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_Poverty.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="249" column="84" lean-forward="false" selection-start-line="249" selection-start-column="84" selection-end-line="249" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_Protection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_Recreational.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SchoolBoards.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="249" column="84" lean-forward="false" selection-start-line="249" selection-start-column="84" selection-end-line="249" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Alc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="249" column="84" lean-forward="false" selection-start-line="249" selection-start-column="84" selection-end-line="249" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Autism.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="249" column="84" lean-forward="false" selection-start-line="249" selection-start-column="84" selection-end-line="249" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Developmental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="249" column="84" lean-forward="false" selection-start-line="249" selection-start-column="84" selection-end-line="249" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_General.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/contact_me.js" />
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jqBootstrapValidation.js" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MH_Anxiety_general.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4560">
+          <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="320" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="121" column="1" lean-forward="false" selection-start-line="121" selection-start-column="1" selection-end-line="121" selection-end-column="1" />
+        <state relative-caret-position="2880">
+          <caret line="192" column="11" lean-forward="false" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bibliography.html">
+    <entry file="file://$PROJECT_DIR$/For_Help_YouthJustice.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="42" column="46" lean-forward="true" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
+        <state relative-caret-position="3750">
+          <caret line="250" column="84" lean-forward="false" selection-start-line="250" selection-start-column="84" selection-end-line="250" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3720">
+          <caret line="248" column="68" lean-forward="true" selection-start-line="248" selection-start-column="68" selection-end-line="248" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="397" column="79" lean-forward="true" selection-start-line="397" selection-start-column="11" selection-end-line="397" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#0;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#1;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#2;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#3;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h4#0;n#div#0;n#div#4;n#div#4;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Encourage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="302" column="50" lean-forward="false" selection-start-line="302" selection-start-column="31" selection-end-line="302" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MH_Self_Injury.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="315" column="8" lean-forward="false" selection-start-line="315" selection-start-column="8" selection-end-line="325" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MH_Mood_Bipolar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1665">
+          <caret line="236" column="67" lean-forward="true" selection-start-line="236" selection-start-column="67" selection-end-line="236" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_Abuse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="298" column="106" lean-forward="true" selection-start-line="298" selection-start-column="106" selection-end-line="298" selection-end-column="106" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modern-business.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="76" column="1" lean-forward="true" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_Bullying.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="231" column="25" lean-forward="true" selection-start-line="231" selection-start-column="25" selection-end-line="231" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MH_Suicide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="324" column="29" lean-forward="true" selection-start-line="324" selection-start-column="29" selection-end-line="324" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_DV.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="323" column="22" lean-forward="true" selection-start-line="323" selection-start-column="22" selection-end-line="323" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_Dealing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="344" column="98" lean-forward="false" selection-start-line="344" selection-start-column="98" selection-end-line="344" selection-end-column="98" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_Exposure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="252" column="41" lean-forward="true" selection-start-line="252" selection-start-column="29" selection-end-line="252" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_Grief.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="262" column="43" lean-forward="true" selection-start-line="262" selection-start-column="43" selection-end-line="262" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Impact_Subst.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
-          <caret line="80" column="3" lean-forward="true" selection-start-line="80" selection-start-column="3" selection-end-line="80" selection-end-column="3" />
+          <caret line="254" column="44" lean-forward="false" selection-start-line="254" selection-start-column="29" selection-end-line="254" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MH_Supporting.html">
+    <entry file="file://$PROJECT_DIR$/Impact_ParSubst.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="530" column="26" lean-forward="false" selection-start-line="530" selection-start-column="26" selection-end-line="530" selection-end-column="26" />
+        <state relative-caret-position="345">
+          <caret line="256" column="44" lean-forward="true" selection-start-line="256" selection-start-column="44" selection-end-line="256" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MH_Anxiety_SM.html">
+    <entry file="file://$PROJECT_DIR$/Impact_Teens.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="286" column="24" lean-forward="true" selection-start-line="286" selection-start-column="24" selection-end-line="286" selection-end-column="24" />
+        <state relative-caret-position="660">
+          <caret line="256" column="42" lean-forward="false" selection-start-line="256" selection-start-column="29" selection-end-line="256" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MH_Anxiety_general.html">
+    <entry file="file://$PROJECT_DIR$/Impact_Stress.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="304" column="0" lean-forward="false" selection-start-line="304" selection-start-column="0" selection-end-line="320" selection-end-column="18" />
+        <state relative-caret-position="180">
+          <caret line="317" column="0" lean-forward="false" selection-start-line="317" selection-start-column="0" selection-end-line="317" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MH_Anxiety_ocd.html">
+    <entry file="file://$PROJECT_DIR$/SE.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="271" column="0" lean-forward="true" selection-start-line="271" selection-start-column="0" selection-end-line="271" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MH_Att_Insecure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="274" column="22" lean-forward="true" selection-start-line="274" selection-start-column="22" selection-end-line="274" selection-end-column="22" />
+        <state relative-caret-position="120">
+          <caret line="230" column="41" lean-forward="true" selection-start-line="230" selection-start-column="41" selection-end-line="230" selection-end-column="41" />
           <folding />
         </state>
       </provider>
