@@ -1,3 +1,6 @@
+/*
+    Checkered Flags CSS
+ */
 
 html,
 body {
@@ -8,7 +11,6 @@ body {
     padding-top: 50px;
 }
 
-
 .img-hover:hover {
     opacity: 0.8;
 }
@@ -17,17 +19,16 @@ footer {
     margin: 50px 0;
     position: relative;
     left: 13px;
-
 }
 
-@media(max-width: 1000px) {
+@media (max-width: 1000px) {
     .customer-img,
     .img-related {
         margin-bottom: 30px;
     }
 }
 
-@media(max-width: 1000px) {
+@media (max-width: 1000px) {
     .img-portfolio {
         margin-bottom: 15px;
     }
@@ -38,14 +39,17 @@ footer {
     .navbar-collapse.collapse {
         display: none !important;
     }
+
     .navbar-collapse.collapse.in {
         display: block !important;
     }
+
     .navbar-header .collapse, .navbar-toggle {
-        display:block !important;
+        display: block !important;
     }
+
     .navbar-header {
-        float:none;
+        float: none;
     }
 }
 
@@ -53,55 +57,61 @@ footer {
     background-color: #337AB7 !important;
 }
 
-.panel-heading h4{
+.panel-heading h4 {
     color: white !important;
 }
 
 .jumbotron .container {
-    position:relative;
-    top:50px;
+    position: relative;
+    top: 50px;
 }
+
+.jumbotron {
+    padding: 0;
+}
+
 .panel > .panel-heading {
     background-color: #e8e8e8;
 }
 
-.panel-title a{
+.panel-title a {
     color: white !important;
 }
 
+/* Action Strategies Accordion Colours*/
 
-.together{
+.together {
     background-color: #007CC4 !important;
 }
 
-.teachers{
+.teachers {
     background-color: #00866C !important;
 }
 
-.school{
+.school {
     background-color: #a3484d !important;
 }
 
-.parents{
+.parents {
     background-color: #1e8530 !important;
 }
 
-.community{
+.community {
     background-color: #a5531e !important;
 }
 
-.regacc{
+.regacc {
     background-color: #337BB6 !important;
 }
 
 .image {
-    width: 100%; !important;
-    height: 100%; !important;
+    width: 100%;
+!important;
+    height: 100%;
+!important;
 }
 
-.jumbotron {
-    padding:0;
-}
+/* Yellow Puzzle Piece Hides For Mobile */
 
 @media (max-width: 450px) {
     .yellow {
