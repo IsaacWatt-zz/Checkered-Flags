@@ -3,37 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7d7080bc-a0e0-47d6-97b6-feff148c1b47" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AFA.html" afterPath="$PROJECT_DIR$/AFA.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AFA_New.html" afterPath="$PROJECT_DIR$/AFA_New.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AFA_Poverty.html" afterPath="$PROJECT_DIR$/AFA_Poverty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AFA_Seperation.html" afterPath="$PROJECT_DIR$/AFA_Seperation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AFA_homelessness.html" afterPath="$PROJECT_DIR$/AFA_homelessness.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Bibliography.html" afterPath="$PROJECT_DIR$/Bibliography.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Child_inNeed.html" afterPath="$PROJECT_DIR$/Child_inNeed.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Developmental_Assets.html" afterPath="$PROJECT_DIR$/Developmental_Assets.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Encourage.html" afterPath="$PROJECT_DIR$/Encourage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help.html" afterPath="$PROJECT_DIR$/For_Help.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_HealthUnit.html" afterPath="$PROJECT_DIR$/For_Help_HealthUnit.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Homelessness.html" afterPath="$PROJECT_DIR$/For_Help_Homelessness.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Impact.html" afterPath="$PROJECT_DIR$/For_Help_Impact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_LearningDis.html" afterPath="$PROJECT_DIR$/For_Help_LearningDis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_MentalHealth.html" afterPath="$PROJECT_DIR$/For_Help_MentalHealth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Mentouring.html" afterPath="$PROJECT_DIR$/For_Help_Mentouring.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Poverty.html" afterPath="$PROJECT_DIR$/For_Help_Poverty.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Protection.html" afterPath="$PROJECT_DIR$/For_Help_Protection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_Recreational.html" afterPath="$PROJECT_DIR$/For_Help_Recreational.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SchoolBoards.html" afterPath="$PROJECT_DIR$/For_Help_SchoolBoards.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_Alc.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_Alc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_Autism.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_Autism.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_Developmental.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_Developmental.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_SpecEd_General.html" afterPath="$PROJECT_DIR$/For_Help_SpecEd_General.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/For_Help_YouthJustice.html" afterPath="$PROJECT_DIR$/For_Help_YouthJustice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Glossary.html" afterPath="$PROJECT_DIR$/Glossary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Resilience.html" afterPath="$PROJECT_DIR$/Resilience.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/checkeredflags.css" afterPath="$PROJECT_DIR$/css/checkeredflags.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.html" afterPath="$PROJECT_DIR$/footer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.html" afterPath="$PROJECT_DIR$/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -51,71 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AFA.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AFA.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Help_SpecEd_Alc.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Alc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Help_SpecEd_Autism.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Autism.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4275">
-              <caret line="285" column="0" lean-forward="true" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Help_SpecEd_BrainInj.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="233" column="21" lean-forward="true" selection-start-line="233" selection-start-column="21" selection-end-line="233" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Help_SpecEd_Developmental.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Developmental.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="206" column="10" lean-forward="true" selection-start-line="206" selection-start-column="10" selection-end-line="206" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Help_SpecEd_General.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_General.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4665">
-              <caret line="314" column="20" lean-forward="true" selection-start-line="314" selection-start-column="20" selection-end-line="314" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="For_Help_YouthJustice.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="For_Help_YouthJustice.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/For_Help_YouthJustice.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="434">
-              <caret line="279" column="25" lean-forward="true" selection-start-line="279" selection-start-column="25" selection-end-line="279" selection-end-column="25" />
+            <state relative-caret-position="-3496">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -302,8 +212,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -448,32 +358,33 @@
       <workItem from="1502121026843" duration="2366000" />
       <workItem from="1502227185454" duration="629000" />
       <workItem from="1502298192167" duration="4628000" />
+      <workItem from="1502320797462" duration="202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186107000" />
+    <option name="totallyTimeSpent" value="186309000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="216" y="23" width="1126" height="826" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23712255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23712255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.021136064" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -617,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -625,7 +535,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="494">
           <caret line="231" column="19" lean-forward="true" selection-start-line="231" selection-start-column="19" selection-end-line="231" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -633,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="143" column="0" lean-forward="false" selection-start-line="143" selection-start-column="0" selection-end-line="309" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -641,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="305" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -649,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="74">
           <caret line="113" column="0" lean-forward="false" selection-start-line="113" selection-start-column="0" selection-end-line="298" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -657,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -665,7 +570,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -673,7 +577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1051">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -689,7 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1289">
           <caret line="180" column="33" lean-forward="false" selection-start-line="180" selection-start-column="33" selection-end-line="180" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +598,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="281" column="37" lean-forward="true" selection-start-line="281" selection-start-column="37" selection-end-line="281" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="252" column="14" lean-forward="true" selection-start-line="252" selection-start-column="14" selection-end-line="252" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="91" column="0" lean-forward="true" selection-start-line="91" selection-start-column="0" selection-end-line="91" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -721,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="223" column="0" lean-forward="true" selection-start-line="223" selection-start-column="0" selection-end-line="223" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -729,7 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1965">
           <caret line="191" column="10" lean-forward="true" selection-start-line="191" selection-start-column="10" selection-end-line="191" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -737,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5221">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -745,7 +640,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1199">
           <caret line="205" column="0" lean-forward="true" selection-start-line="205" selection-start-column="0" selection-end-line="205" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -753,7 +647,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
           <caret line="305" column="0" lean-forward="true" selection-start-line="305" selection-start-column="0" selection-end-line="305" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,7 +654,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="269">
           <caret line="149" column="18" lean-forward="true" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -769,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="88" column="29" lean-forward="true" selection-start-line="88" selection-start-column="29" selection-end-line="88" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -777,7 +668,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="208" column="0" lean-forward="true" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -785,7 +675,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2460">
           <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -793,55 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
           <caret line="150" column="14" lean-forward="true" selection-start-line="150" selection-start-column="14" selection-end-line="150" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Alc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="174" column="0" lean-forward="true" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Autism.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4275">
-          <caret line="285" column="0" lean-forward="true" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="233" column="21" lean-forward="true" selection-start-line="233" selection-start-column="21" selection-end-line="233" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Developmental.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="206" column="10" lean-forward="true" selection-start-line="206" selection-start-column="10" selection-end-line="206" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_General.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4665">
-          <caret line="314" column="20" lean-forward="true" selection-start-line="314" selection-start-column="20" selection-end-line="314" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/For_Help_YouthJustice.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="434">
-          <caret line="279" column="25" lean-forward="true" selection-start-line="279" selection-start-column="25" selection-end-line="279" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -871,8 +711,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AFA.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="113" column="0" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Alc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="174" column="0" lean-forward="false" selection-start-line="174" selection-start-column="0" selection-end-line="174" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Autism.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="285" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_BrainInj.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="233" column="21" lean-forward="true" selection-start-line="233" selection-start-column="21" selection-end-line="233" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_Developmental.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="206" column="10" lean-forward="true" selection-start-line="206" selection-start-column="10" selection-end-line="206" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_SpecEd_General.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="659">
+          <caret line="314" column="20" lean-forward="true" selection-start-line="314" selection-start-column="20" selection-end-line="314" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/For_Help_YouthJustice.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3496">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding />
         </state>
       </provider>

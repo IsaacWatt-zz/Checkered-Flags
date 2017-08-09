@@ -1,3 +1,4 @@
 Checkered-Flags
 ===============
-a website created for the Leeds, Grenville &amp; Lanark District Health Unit entitled checkered flags. 
+A Website created for the Checkered Flags committee which uses Bootstrap, HTML, CSS, JS, and JQuery.  
+The site was created as an improvement from its previous site; improving its scalability, AODA standards and user interface.
