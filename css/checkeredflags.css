@@ -26,13 +26,10 @@ footer {
     .img-related {
         margin-bottom: 30px;
     }
-}
 
-@media (max-width: 1000px) {
     .img-portfolio {
         margin-bottom: 15px;
     }
-
 }
 
 @media (max-width: 1200px) {
@@ -78,7 +75,7 @@ footer {
     color: white !important;
 }
 
-/* Action Strategies Accordion Colours*/
+/* Action Strategies Accordion Colours */
 
 .together {
     background-color: #007CC4 !important;

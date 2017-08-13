@@ -22,189 +22,223 @@
 
 <body>
 
-<!--#include virtual="_includes/navbar.html" -->
+<!--#include file="navbar.html" -->
 
-<!--#include virtual="_includes/header.html" -->
+<!--#include file="header.html" -->
 
 
-    <!-- Page Content -->
-    <div class="container" style="padding-top: 106px">
+<!-- Page Content -->
+<div class="container" style="padding-top: 106px">
 
-        <!-- Page Heading/Breadcrumbs -->
-        <div class="row">
-            <div class="col-lg-12">
-                <h1 class="page-header">School Attendance</h1>
-                <ol class="breadcrumb">
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="Student_Success.html">Student Success</a></li>
-                    <li class="active">School Attendance</li>
-                </ol>
+    <!-- Page Heading -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">School Attendance</h1>
+            <ol class="breadcrumb">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="Student_Success.html">Student Success</a></li>
+                <li class="active">School Attendance</li>
+            </ol>
+        </div>
+    </div>
+    <!-- End of Row -->
+
+    <!-- Content Row -->
+    <div class="row">
+
+        <!-- Sidebar Column -->
+        <div class="col-md-3">
+            <div class="list-group">
+                <a href="Student_Success.html" class="list-group-item">What Is Student Success</a>
+                <a href="Student_Success_Academic.html" class="list-group-item">Identifying School/Academic Alerts</a>
+                <a href="Student_Success_Social.html" class="list-group-item">Identifying Social Alerts</a>
+                <a href="Student_Success_Family.html" class="list-group-item">Identifying Familial Alerts</a>
+                <a href="Student_Success_Responding.html" class="list-group-item">Responding To Risk Alerts</a>
+                <a href="Student_Success_ToDo.html" class="list-group-item">What Schools, Parents and Community Partners
+                    Can Do</a>
+                <a href="Student_Success_Attendance.html" class="list-group-item active">School Attendance</a>
+                <a href="Student_Success_Roles.html" class="list-group-item">Roles and Responsibilities in Improving
+                    Attendance</a>
             </div>
         </div>
-        <!-- /.row -->
 
-        <!-- Content Row -->
-        <div class="row">
-            <!-- Sidebar Column -->
-            <div class="col-md-3">
-                <div class="list-group">
-                    <a href="Student_Success.html" class="list-group-item">What Is Student Success</a>
-                    <a href="Student_Success_Academic.html" class="list-group-item">Identifying School/Academic Alerts</a>
-                    <a href="Student_Success_Social.html" class="list-group-item">Identifying Social Alerts</a>
-                    <a href="Student_Success_Family.html" class="list-group-item">Identifying Familial Alerts</a>
-                    <a href="Student_Success_Responding.html" class="list-group-item">Responding To Risk Alerts</a>
-                    <a href="Student_Success_ToDo.html" class="list-group-item">What Schools, Parents and Community Partners Can Do</a>
-                    <a href="Student_Success_Attendance.html" class="list-group-item active">School Attendance</a>
-                    <a href="Student_Success_Roles.html" class="list-group-item">Roles and Responsibilities in Improving Attendance</a>
-                    <!--list-group-item active-->
+        <!-- Content Column -->
+        <div class="col-md-9">
+            <div class="col-xl-1">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-book"></i>Why School Success Matters</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Every student of school age (6 to 18 years) must attend school on each instructional day
+                            unless excused. A key factor in school success is regular attendance.</p>
+                        <br>
+                        <p>Partnership between home and school is critical to ensure student success. Parents and
+                            schools share responsibility for ensuring that students attend school and succeed in the
+                            school environment. The school is a focal point in students’ lives, where home, school, and
+                            community partners can connect and work together to support student success.</p>
+                        <br>
+                        <p>Patterns of attendance and lateness are often the signs of problems in other areas of a
+                            student’s life (e.g., academic, social/emotional, or medical issues, problems in the home
+                            environment or the community).</p>
+                    </div>
                 </div>
             </div>
-            <!-- Content Column -->
-            <div class="col-md-9">
-                <div class="col-xl-1">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4><i class="fa fa-fw fa-book"></i>Why School Success Matters</h4>
-                        </div>
-                        <div class="panel-body">
-                            <p>Every student of school age (6 to 18 years) must attend school on each instructional day unless excused.  A key factor in school success is regular attendance.</p>
-                            <br>
-                            <p>Partnership between home and school is critical to ensure student success.  Parents and schools share responsibility for ensuring that students attend school and succeed in the school environment. The school is a focal point in students’ lives, where home, school, and community partners can connect and work together to support student success.</p>
-                            <br>
-                            <p>Patterns of attendance and lateness are often the signs of problems in other areas of a student’s life (e.g., academic, social/emotional, or medical issues, problems in the home environment or the community).</p>
-                        </div>
-                    </div>
-                </div>
 
-                <h2 class="page-header">Elements Affecting Attendance</h2>
+            <h2 class="page-header">Elements Affecting Attendance</h2>
 
-                <div class="panel-group" id="accordion">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseOne">Academic</a>
-                            </h4>
-                        </div>
-                        <div id="collapseOne" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <ul>
-                                    <li>Learning difficulties, identified or unidentified</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">Social / Emotional / Medical</a>
-                            </h4>
-                        </div>
-                        <div id="collapseTwo" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <ul>
-                                    <li>Mental health difficulties</li>
-                                    <li>Health issues</li>
-                                    <li>Substance abuse</li>
-                                    <li>Staff/student relationships</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseThree">Home Environment</a>
-                            </h4>
-                        </div>
-                        <div id="collapseThree" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <ul>
-                                    <li>Poverty</li>
-                                    <li>Abuse</li>
-                                    <li>Domestic violence</li>
-                                    <li>Lack of supervision and/or guidance in the home</li>
-                                    <li>Separation/divorce</li>
-                                    <li>Bereavement/ grief</li>
-                                    <li>Student living independently</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- /.panel -->
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4 class="panel-title">
-                                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion" href="#collapseFour">Community</a>
-                            </h4>
-                        </div>
-                        <div id="collapseFour" class="panel-collapse collapse">
-                            <div class="panel-body">
-                                <ul>
-                                    <li>Conflict with the law</li>
-                                    <li>Social networking</li>
-                                    <li>Over use of technology</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
+            <div class="panel-group" id="accordion">
 
-                </div>
-                <!-- /.panel-group -->
-
-                <div class="col-xl-1">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4><i class="fa fa-fw fa-book"></i>What Schools, Parents And Community Partners Can Do</h4>
-                        </div>
+                <!-- Panel 1 -->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
+                               href="#collapseOne">Academic</a>
+                        </h4>
+                    </div>
+                    <div id="collapseOne" class="panel-collapse collapse">
                         <div class="panel-body">
                             <ul>
-                                <li>Assist students with visuals of daily routines, clarify expectations for work assignments.</li>
-                                <li>Give students leadership roles to enhance sense of belonging.</li>
-                                <li>Engage students in activities in the school environment and the community.</li>
-                                <li>Ensure that there is an established routine and structure at home and at school, with a limited number of interruptions in a student’s daily schedule.</li>
-                                <li>Create opportunities to engage students as part of a team, ensuring that they have a voice.</li>
-                                <li>Set strategies for success by building home/school/community partnership to plan for and communicate with the student.</li>
-                                <li>Try to engage the student in extracurricular activities.</li>
-                                <li>Have frequent interactions with the student during the day to support success and reinforce expectations.</li>
-                                <li>In some cases, it may be helpful for parents to bring the student to school rather than relying on the scheduled bus service.</li>
-                                <li>Log student patterns of success and struggle to review, support, and intervene as appropriate.</li>
-                                <li>Set up student contracts.</li>
-                                <li>Set goals for students with chronic attendance problems.</li>
-                                <li>Modify the curriculum or make ACCOMMODATIONS in order to meet student’s needs.</li>
+                                <li>Learning difficulties, identified or unidentified</li>
                             </ul>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-xl-1">
-                    <div class="panel panel-default">
-                        <div class="panel-heading">
-                            <h4><i class="fa fa-fw fa-book"></i>Student Absenteesim</h4>
-                        </div>
+                <!-- Panel 2 -->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
+                               href="#collapseTwo">Social / Emotional / Medical</a>
+                        </h4>
+                    </div>
+                    <div id="collapseTwo" class="panel-collapse collapse">
                         <div class="panel-body">
-                            <p>Because regular attendance is a key factor in school success, absenteeism is a serious concern. It has a direct, negative effect on student achievement. Addressing attendance issues is a complex problem. Research points to the importance of understanding the causes of absenteeism in order to apply effective strategies and interventions.</p>
+                            <ul>
+                                <li>Mental health difficulties</li>
+                                <li>Health issues</li>
+                                <li>Substance abuse</li>
+                                <li>Staff/student relationships</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Panel 3 -->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
+                               href="#collapseThree">Home Environment</a>
+                        </h4>
+                    </div>
+                    <div id="collapseThree" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul>
+                                <li>Poverty</li>
+                                <li>Abuse</li>
+                                <li>Domestic violence</li>
+                                <li>Lack of supervision and/or guidance in the home</li>
+                                <li>Separation/divorce</li>
+                                <li>Bereavement/ grief</li>
+                                <li>Student living independently</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Panel 4 -->
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">
+                            <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion"
+                               href="#collapseFour">Community</a>
+                        </h4>
+                    </div>
+                    <div id="collapseFour" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <ul>
+                                <li>Conflict with the law</li>
+                                <li>Social networking</li>
+                                <li>Over use of technology</li>
+                            </ul>
                         </div>
                     </div>
                 </div>
 
             </div>
+            <!-- End of Panel Group -->
 
+            <div class="col-xl-1">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-book"></i>What Schools, Parents And Community Partners Can Do</h4>
+                    </div>
+                    <div class="panel-body">
+                        <ul>
+                            <li>Assist students with visuals of daily routines, clarify expectations for work
+                                assignments.
+                            </li>
+                            <li>Give students leadership roles to enhance sense of belonging.</li>
+                            <li>Engage students in activities in the school environment and the community.</li>
+                            <li>Ensure that there is an established routine and structure at home and at school, with a
+                                limited number of interruptions in a student’s daily schedule.
+                            </li>
+                            <li>Create opportunities to engage students as part of a team, ensuring that they have a
+                                voice.
+                            </li>
+                            <li>Set strategies for success by building home/school/community partnership to plan for and
+                                communicate with the student.
+                            </li>
+                            <li>Try to engage the student in extracurricular activities.</li>
+                            <li>Have frequent interactions with the student during the day to support success and
+                                reinforce expectations.
+                            </li>
+                            <li>In some cases, it may be helpful for parents to bring the student to school rather than
+                                relying on the scheduled bus service.
+                            </li>
+                            <li>Log student patterns of success and struggle to review, support, and intervene as
+                                appropriate.
+                            </li>
+                            <li>Set up student contracts.</li>
+                            <li>Set goals for students with chronic attendance problems.</li>
+                            <li>Modify the curriculum or make ACCOMMODATIONS in order to meet student’s needs.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
 
+            <div class="col-xl-1">
+                <div class="panel panel-default">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-book"></i>Student Absenteesim</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>Because regular attendance is a key factor in school success, absenteeism is a serious
+                            concern. It has a direct, negative effect on student achievement. Addressing attendance
+                            issues is a complex problem. Research points to the importance of understanding the causes
+                            of absenteeism in order to apply effective strategies and interventions.</p>
+                    </div>
+                </div>
+            </div>
         </div>
-        <!-- /.row -->
 
-        <!--#include virtual="_includes/footer.html" -->
 
     </div>
-    <!-- /.container -->
+    <!-- End of Row -->
 
-    <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <!--#include file="footer.html" -->
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+</div>
+<!-- End of Container -->
+
+<!-- jQuery -->
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
 
 </body>
 
