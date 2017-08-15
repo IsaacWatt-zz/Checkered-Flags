@@ -94,7 +94,11 @@ footer {
 }
 
 .community {
-    background-color: #a5531e !important;
+    background-color: #990099 !important;
+}
+
+.law {
+    background-color: #669900 !important;
 }
 
 .regacc {
@@ -108,10 +112,14 @@ footer {
 !important;
 }
 
-/* Yellow Puzzle Piece Hides For Mobile */
+/* Hides Puzzle Piece For Mobile */
 
 @media (max-width: 450px) {
     .yellow {
+        display: none;
+    }
+
+    .blue {
         display: none;
     }
 }
