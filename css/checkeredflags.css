@@ -11,10 +11,6 @@ body {
     padding-top: 50px;
 }
 
-.img-hover:hover {
-    opacity: 0.8;
-}
-
 footer {
     margin: 50px 0;
     position: relative;
@@ -78,23 +74,23 @@ footer {
 /* Action Strategies Accordion Colours */
 
 .together {
-    background-color: #007CC4 !important;
-}
-
-.teachers {
     background-color: #00866C !important;
 }
 
-.school {
+.teachers {
     background-color: #a3484d !important;
 }
 
+.school {
+    background-color: #007CC4 !important;
+}
+
 .parents {
-    background-color: #1e8530 !important;
+    background-color: #990099 !important;
 }
 
 .community {
-    background-color: #990099 !important;
+    background-color: #a30000 !important;
 }
 
 .law {
@@ -114,7 +110,7 @@ footer {
 
 /* Hides Puzzle Piece For Mobile */
 
-@media (max-width: 450px) {
+@media (max-width: 500px) {
     .yellow {
         display: none;
     }
@@ -123,5 +119,3 @@ footer {
         display: none;
     }
 }
-
-
